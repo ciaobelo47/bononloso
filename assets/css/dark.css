@@ -1,0 +1,97 @@
+body.dark {
+    background-color: #181818;
+    color: #ffffff;
+}
+
+.dark nav.top-nav {
+    border-bottom: 1px solid rgb(255 255 255 / 14%);
+}
+
+/* .dark a {
+    color: #3ea6ff;
+} */
+
+.dark input {
+    color: #ffffff;
+}
+
+.dark hr {
+    height: 3px;
+    background-color: #ffffff1a;
+    border: none;
+    border-radius: 4px;
+}
+
+.dark .divider {
+    background-color: #ffffff1a;
+}
+
+.dark tr {
+    border-color: #ffffff1a;
+}
+
+.dark .user-view .background {
+    background-color: #0f0f0f;
+}
+
+.dark .sidenav {
+    background-color: #212121;
+}
+
+.dark .sidenav li>a {
+    color: #ffffff;
+}
+
+.dark .sidenav .subheader {
+    color: #aaaaaa;
+}
+
+.dark .collection {
+    border-color: transparent;
+}
+
+.dark .collection .collection-item {
+    background-color: transparent;
+    border-color: #ffffff1a;
+}
+
+.dark .collection.with-header .collection-header {
+    background-color: #0f0f0f;
+    border-color: #ffffff1a;
+    border-width: 2px;
+}
+
+.dark .modal {
+    background-color: #303030;
+}
+
+.dark .promemoria-header {
+    background-color: #212121;
+}
+
+.dark .riepilogo-titolo {
+    background-color: #303030;
+}
+
+.dark .promemoria-header i {
+    color: #aaaaaa;
+}
+
+.dark .fc-unthemed td.fc-today {
+    color: #000000;
+}
+
+.dark .tabs {
+    background-color: transparent;
+}
+
+.dark .card-panel {
+    background-color: #303030;
+}
+.dark .card {
+    background-color: #303030;
+}
+
+.dark .chip {
+    background-color: #4c4c4c;
+}
